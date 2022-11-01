@@ -7,7 +7,7 @@
 	<li>I used to work at Starbucks and Dunkin</li>
 </ol>
 <br>
-<a href="christinolb.github.io">My University</a><br>
+<a href="Link">My University</a><br>
 <a href="Link">Resume</a>
 </body>
 </html>
